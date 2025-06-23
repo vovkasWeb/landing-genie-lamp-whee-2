@@ -447,6 +447,7 @@ body {
 	}
 	.main__plus-mini {
 		display: block;
+		margin: 0 auto;
 	}
 	.logo img {
 		max-width: 200px;
