@@ -148,9 +148,15 @@ body {
 .main__min-bonus {
 	display: block;
 	font-weight: 700;
-	line-height: 29px;
 	font-size: clamp(20px, 3vw, 30px);
 	line-height: clamp(25px, 3vw, 30px);
+}
+.main__mincro-bonus {
+	display: block;
+	font-weight: 700;
+	line-height: 29px;
+	font-size: clamp(20px, 3vw, 25px);
+	line-height: clamp(20px, 3vw, 30px);
 }
 .main__count {
 	display: block;
